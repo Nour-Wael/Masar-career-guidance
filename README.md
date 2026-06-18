@@ -1,3 +1,4 @@
+<img width="3780" height="1890" alt="MASAR" src="https://github.com/user-attachments/assets/61148871-691c-4641-9eec-0d24fb9f863f" />
 # Masar – Career Guidance Platform
 
 Smart career guidance platform for youth.
