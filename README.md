@@ -1,7 +1,22 @@
 <img width="3780" height="1890" alt="MASAR" src="https://github.com/user-attachments/assets/61148871-691c-4641-9eec-0d24fb9f863f" />
 # Masar – Career Guidance Platform
-
 Smart career guidance platform for youth.
+<p align="center">
+  <!-- زرار الويب سايت (كحلي غامق) -->
+  <a href="(https://aboutour.my.canva.site/)" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Live_Demo-112240?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  
+  <!-- زرار البرزنتيشن (اللون الترابي/المرجاني) -->
+  <a href="file:///C:/Users/user/Downloads/Masar%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Presentation-Pitch_Deck-C26D4D?style=for-the-badge&logo=canva&logoColor=white" alt="Presentation" />
+  </a>
+  
+  <!-- زرار الجايد لاين (كحلي غامق) -->
+  <a href="file:///C:/Users/user/Downloads/T%20Masar%20Guideline.pd" target="_blank">
+    <img src="https://img.shields.io/badge/Guidelines-Read_Docs-112240?style=for-the-badge&logo=github&logoColor=white" alt="Guidelines" />
+  </a>
+</p>
 
 ---
 
