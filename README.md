@@ -49,5 +49,14 @@ Masar represents hope, redirection, and a fresh professional start through a cle
 
 ---
 
-## 📱 App Concept
-The app guides users step by step through self-assessment, career exploration, personalized roadmaps, and job readiness tools to help users confidently choose the right career path.
+<div align="center">
+
+| 🤖 Mira AI Mentor | 🔍 Career Discovery | 🗺️ Learning Roadmaps |
+|------------------|--------------------|----------------------|
+| Personalized career guidance powered by AI | Discover careers matching your strengths | Structured learning plans |
+
+| ⚖️ Career Comparison | 🚀 Career Readiness | 💼 Professional Growth |
+|---------------------|--------------------|-----------------------|
+| Compare opportunities and growth paths | Build your CV and portfolio | Prepare for interviews and careers |
+
+</div>
