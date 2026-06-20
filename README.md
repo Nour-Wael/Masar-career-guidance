@@ -49,14 +49,94 @@ Masar represents hope, redirection, and a fresh professional start through a cle
 
 ---
 
-<div align="center">
+# 🚀 Masar Tools
 
-| 🤖 Mira AI Mentor | 🔍 Career Discovery | 🗺️ Learning Roadmaps |
-|------------------|--------------------|----------------------|
-| Personalized career guidance powered by AI | Discover careers matching your strengths | Structured learning plans |
+<details>
+<summary>🤖 Mira AI Mentor</summary>
 
-| ⚖️ Career Comparison | 🚀 Career Readiness | 💼 Professional Growth |
-|---------------------|--------------------|-----------------------|
-| Compare opportunities and growth paths | Build your CV and portfolio | Prepare for interviews and careers |
+<br>
 
-</div>
+Your intelligent career companion powered by AI.
+
+<p align="center">
+<a href="https://ais-pre-yzm35vq3a4rgkrryff7kud-15547298481.europe-west3.run.app">
+<img src="https://img.shields.io/badge/Open_Mira_AI_Mentor-122045?style=for-the-badge&logo=google-gemini&logoColor=white">
+</a>
+</p>
+
+</details>
+
+<details>
+<summary>📄 CV Builder</summary>
+
+<br>
+
+Create professional ATS-friendly resumes.
+
+<p align="center">
+<a href="https://masar-create-careers.lovable.app">
+<img src="https://img.shields.io/badge/Open_CV_Builder-D98A5F?style=for-the-badge&logo=readme&logoColor=white">
+</a>
+</p>
+
+</details>
+
+<details>
+<summary>🎨 Portfolio Guide</summary>
+
+<br>
+
+Build a portfolio that showcases your skills.
+
+<p align="center">
+<a href="https://masar-portfolio-buil-ld1g.bolt.host">
+<img src="https://img.shields.io/badge/Open_Portfolio_Guide-122045?style=for-the-badge&logo=behance&logoColor=white">
+</a>
+</p>
+
+</details>
+
+<details>
+<summary>💼 LinkedIn Optimization</summary>
+
+<br>
+
+Optimize your professional online presence.
+
+<p align="center">
+<a href="https://masar-linkedin-optim-wh35.bolt.host">
+<img src="https://img.shields.io/badge/Open_LinkedIn_Optimization-D98A5F?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+</details>
+
+<details>
+<summary>🔍 Career Test</summary>
+
+<br>
+
+Discover careers that match your strengths.
+
+<p align="center">
+<a href="https://ais-pre-prntijfkdire3vmyj256kf-15547298481.europe-west3.run.app">
+<img src="https://img.shields.io/badge/Take_Career_Test-122045?style=for-the-badge&logo=target&logoColor=white">
+</a>
+</p>
+
+</details>
+
+<details>
+<summary>🎤 Interview Preparation</summary>
+
+<br>
+
+Practice and prepare for interviews.
+
+<p align="center">
+<a href="https://coach-masar-ready.lovable.app">
+<img src="https://img.shields.io/badge/Open_Interview_Preparation-D98A5F?style=for-the-badge&logo=microphone&logoColor=white">
+</a>
+</p>
+
+</details>
