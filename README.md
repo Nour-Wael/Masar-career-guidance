@@ -8,7 +8,7 @@ Smart career guidance platform for youth.
   </a>
   
   <!-- زرار البرزنتيشن (GitHub PDF) -->
-  <a href="https://github.com/Nour-Wael/Masar-career-guidance/blob/main/Masar%20(1).pdf" target="_blank">
+  <a href="https://canva.link/l36wndivo6bdfuo" target="_blank">
     <img src="https://img.shields.io/badge/Presentation-Pitch_Deck-C26D4D?style=for-the-badge&logo=canva&logoColor=white" alt="Presentation" />
   </a>
   
