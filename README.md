@@ -139,78 +139,6 @@ Practice and prepare for interviews.
 </a>
 </p>
 
-# 👥 Team Members
-
-<details>
-<summary><b>👑 Tasneem Ahmed Ali — Team Leader</b></summary>
-
-<br>
-
-### Responsibilities
-
-- 💡 Project Idea Research
-- 🎯 Project Concept Selection
-- ✏️ Logo Sketching
-- 🎨 Color Palette Selection
-- 📱 Social Media Poster Design
-- 🖼️ Banner Design
-- 📖 Brand Guideline Creation
-- 🌟 Pattern Design
-
-</details>
-
----
-
-<details>
-<summary><b>💻 Nour Wael Mohammed</b></summary>
-
-<br>
-
-### Responsibilities
-
-- 💡 Project Idea Research
-- 🎯 Project Concept Selection
-- ✏️ Logo Sketching
-- 🎨 Color Palette Selection
-- 📱 Social Media Poster Design
-- 📖 Brand Guideline Contribution
-- 🌐 Website UI/UX Design
-- 🤖 AI Tools Development
-
-</details>
-
----
-
-<details>
-<summary><b>🎨 Eriny Raafat</b></summary>
-
-<br>
-
-### Responsibilities
-
-- 💡 Project Idea Research
-- 🎯 Project Concept Selection
-- ✏️ Logo Sketching
-- 🎨 Color Palette Selection
-- 📱 Social Media Poster Design
-- 📖 Brand Guideline Contribution
-- 🖼️ Banner Design
-
-</details>
-
----
-
-<details>
-<summary><b>🚀 Abdelrahman Hesham Ezzat</b></summary>
-
-<br>
-
-### Responsibilities
-
-- 🎨 Color Palette Selection
-- 📱 Social Media Poster Design
-- 📖 Brand Guideline Contribution
-
 </details>
 </details>
 <div align="center">
@@ -230,5 +158,14 @@ Practice and prepare for interviews.
 <a href="https://drive.google.com/drive/folders/1jNI14Po2p9cIS9Ac4-tHLC9LlFrPQMjN?usp=sharing">
 <img src="https://img.shields.io/badge/📂_Open_Google_Drive-122045?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
+
+## 👥 Team Members
+
+| Name | Role |
+|------|------|
+| **Tasneem Ahmed Ali** <br> *(Team Leader)* | • Project Idea Research <br> • Project Concept Selection <br> • Logo Sketching <br> • Color Palette Selection <br> • Social Media Poster Design <br> • Banner Design <br> • Brand Guideline Creation <br> • Pattern Design |
+| **Nour Wael Mohammed** | • Project Idea Research <br> • Project Concept Selection <br> • Logo Sketching <br> • Color Palette Selection <br> • Social Media Poster Design <br> • Brand Guideline Contribution <br> • Website UI/UX Design <br> • AI Tools Development |
+| **Eriny Raafat** | • Project Idea Research <br> • Project Concept Selection <br> • Logo Sketching <br> • Color Palette Selection <br> • Social Media Poster Design <br> • Brand Guideline Contribution <br> • Banner Design |
+| **Abdelrahman Hesham Ezzat** | • Color Palette Selection <br> • Social Media Poster Design <br> • Brand Guideline Contribution |
 
 </div>
