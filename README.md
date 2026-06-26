@@ -139,15 +139,14 @@ Practice and prepare for interviews.
 </a>
 </p>
 
-## 👥 Meet Our Team
+# 👥 Team Members
 
-<table>
-<tr>
+<details>
+<summary><b>👑 Tasneem Ahmed Ali — Team Leader</b></summary>
 
-<td width="50%">
+<br>
 
-### 👑 Tasneem Ahmed Ali
-**Team Leader**
+### Responsibilities
 
 - 💡 Project Idea Research
 - 🎯 Project Concept Selection
@@ -158,11 +157,16 @@ Practice and prepare for interviews.
 - 📖 Brand Guideline Creation
 - 🌟 Pattern Design
 
-</td>
+</details>
 
-<td width="50%">
+---
 
-### 🎨 Nour Wael Mohammed
+<details>
+<summary><b>💻 Nour Wael Mohammed</b></summary>
+
+<br>
+
+### Responsibilities
 
 - 💡 Project Idea Research
 - 🎯 Project Concept Selection
@@ -170,18 +174,19 @@ Practice and prepare for interviews.
 - 🎨 Color Palette Selection
 - 📱 Social Media Poster Design
 - 📖 Brand Guideline Contribution
-- 💻 Website UI/UX Design
+- 🌐 Website UI/UX Design
 - 🤖 AI Tools Development
 
-</td>
+</details>
 
-</tr>
+---
 
-<tr>
+<details>
+<summary><b>🎨 Eriny Raafat</b></summary>
 
-<td width="50%">
+<br>
 
-### 🎨 Eriny Raafat
+### Responsibilities
 
 - 💡 Project Idea Research
 - 🎯 Project Concept Selection
@@ -191,20 +196,22 @@ Practice and prepare for interviews.
 - 📖 Brand Guideline Contribution
 - 🖼️ Banner Design
 
-</td>
+</details>
 
-<td width="50%">
+---
 
-### 🎨 Abdelrahman Hesham Ezzat
+<details>
+<summary><b>🚀 Abdelrahman Hesham Ezzat</b></summary>
+
+<br>
+
+### Responsibilities
 
 - 🎨 Color Palette Selection
 - 📱 Social Media Poster Design
 - 📖 Brand Guideline Contribution
 
-</td>
-
-</tr>
-</table>
+</details>
 </details>
 <div align="center">
 
