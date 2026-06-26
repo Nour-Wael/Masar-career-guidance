@@ -159,13 +159,71 @@ Practice and prepare for interviews.
 <img src="https://img.shields.io/badge/📂_Open_Google_Drive-122045?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
-## 👥 Team Members
+## 👥 Meet Our Team
 
-| Name | Role |
-|------|------|
-| **Tasneem Ahmed Ali** <br> *(Team Leader)* | • Project Idea Research <br> • Project Concept Selection <br> • Logo Sketching <br> • Color Palette Selection <br> • Social Media Poster Design <br> • Banner Design <br> • Brand Guideline Creation <br> • Pattern Design |
-| **Nour Wael Mohammed** | • Project Idea Research <br> • Project Concept Selection <br> • Logo Sketching <br> • Color Palette Selection <br> • Social Media Poster Design <br> • Brand Guideline Contribution <br> • Website UI/UX Design <br> • AI Tools Development |
-| **Eriny Raafat** | • Project Idea Research <br> • Project Concept Selection <br> • Logo Sketching <br> • Color Palette Selection <br> • Social Media Poster Design <br> • Brand Guideline Contribution <br> • Banner Design |
-| **Abdelrahman Hesham Ezzat** | • Color Palette Selection <br> • Social Media Poster Design <br> • Brand Guideline Contribution |
+<table>
+<tr>
+
+<td width="50%">
+
+### 👑 Tasneem Ahmed Ali
+**Team Leader**
+
+- 💡 Project Idea Research
+- 🎯 Project Concept Selection
+- ✏️ Logo Sketching
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 🖼️ Banner Design
+- 📖 Brand Guideline Creation
+- 🌟 Pattern Design
+
+</td>
+
+<td width="50%">
+
+### 🎨 Nour Wael Mohammed
+
+- 💡 Project Idea Research
+- 🎯 Project Concept Selection
+- ✏️ Logo Sketching
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 📖 Brand Guideline Contribution
+- 💻 Website UI/UX Design
+- 🤖 AI Tools Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 Eriny Raafat
+
+- 💡 Project Idea Research
+- 🎯 Project Concept Selection
+- ✏️ Logo Sketching
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 📖 Brand Guideline Contribution
+- 🖼️ Banner Design
+
+</td>
+
+<td width="50%">
+
+### 🎨 Abdelrahman Hesham Ezzat
+
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 📖 Brand Guideline Contribution
+
+</td>
+
+</tr>
+</table>
 
 </div>
