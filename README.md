@@ -140,3 +140,17 @@ Practice and prepare for interviews.
 </p>
 
 </details>
+## 📂 Project Resources
+
+> Click any resource below
+
+- 📘 Brand Guideline
+- 🎤 Presentation
+- 📑 Documentation
+- 🎨 Mockups
+
+👇
+
+🔗 **Google Drive**
+
+(https://drive.google.com/drive/folders/1jNI14Po2p9cIS9Ac4-tHLC9LlFrPQMjN)
