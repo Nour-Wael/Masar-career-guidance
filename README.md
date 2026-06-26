@@ -139,6 +139,72 @@ Practice and prepare for interviews.
 </a>
 </p>
 
+## 👥 Meet Our Team
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 👑 Tasneem Ahmed Ali
+**Team Leader**
+
+- 💡 Project Idea Research
+- 🎯 Project Concept Selection
+- ✏️ Logo Sketching
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 🖼️ Banner Design
+- 📖 Brand Guideline Creation
+- 🌟 Pattern Design
+
+</td>
+
+<td width="50%">
+
+### 🎨 Nour Wael Mohammed
+
+- 💡 Project Idea Research
+- 🎯 Project Concept Selection
+- ✏️ Logo Sketching
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 📖 Brand Guideline Contribution
+- 💻 Website UI/UX Design
+- 🤖 AI Tools Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 Eriny Raafat
+
+- 💡 Project Idea Research
+- 🎯 Project Concept Selection
+- ✏️ Logo Sketching
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 📖 Brand Guideline Contribution
+- 🖼️ Banner Design
+
+</td>
+
+<td width="50%">
+
+### 🎨 Abdelrahman Hesham Ezzat
+
+- 🎨 Color Palette Selection
+- 📱 Social Media Poster Design
+- 📖 Brand Guideline Contribution
+
+</td>
+
+</tr>
+</table>
 </details>
 <div align="center">
 
