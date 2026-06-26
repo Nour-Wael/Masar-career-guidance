@@ -140,17 +140,22 @@ Practice and prepare for interviews.
 </p>
 
 </details>
-## 📂 Project Resources
+<div align="center">
 
-> Click any resource below
+<div align="center">
 
-- 📘 Brand Guideline
-- 🎤 Presentation
-- 📑 Documentation
-- 🎨 Mockups
+<div align="center">
 
-👇
+# ✨ Explore Masar Resources
 
-🔗 **Google Drive**
+### Discover our complete project journey, from concept to execution.
 
-(https://drive.google.com/drive/folders/1jNI14Po2p9cIS9Ac4-tHLC9LlFrPQMjN)
+**📖 Brand Guideline • 🎨 Mockups • 📊 Presentation • 📄 Documentation**
+
+<br><br>
+
+<a href="https://drive.google.com/drive/folders/1jNI14Po2p9cIS9Ac4-tHLC9LlFrPQMjN?usp=sharing">
+<img src="https://img.shields.io/badge/📂_Open_Google_Drive-122045?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</div>
