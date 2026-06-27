@@ -13,7 +13,7 @@ Smart career guidance platform for youth.
   </a>
   
   <!-- زرار الجايد لاين (GitHub PDF) -->
-  <a href="https://github.com/Nour-Wael/Masar-career-guidance/blob/main/T%20Masar%20Guideline.pdf" target="_blank">
+  <a href="https://github.com/Nour-Wael/Masar-career-guidance/blob/main/T%20Masar%20Guideline%20%20FINAL.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Guidelines-Read_Docs-112240?style=for-the-badge&logo=github&logoColor=white" alt="Guidelines" />
   </a>
 </p>
