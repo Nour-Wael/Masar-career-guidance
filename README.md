@@ -3,7 +3,7 @@
 Smart career guidance platform for youth.
 <p align="center">
   <!-- زرار الويب سايت (Canva) -->
-  <a href="https://aboutour.my.canva.site/about-us" target="_blank">
+  <a href="https://aboutour.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Live_Demo-112240?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   
