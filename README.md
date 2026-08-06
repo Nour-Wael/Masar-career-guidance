@@ -18,6 +18,12 @@ Smart career guidance platform for youth.
   </a>
 </p>
 
+<p>
+  <a href="./Plan%20B.pdf">
+    <img alt="Brainstorm Presentation" src="https://img.shields.io/badge/Brainstorm%20Presentation-Open-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🔍 Problem
